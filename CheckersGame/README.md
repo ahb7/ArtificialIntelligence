@@ -1,4 +1,4 @@
-#### Running it.
+#### Running it:
 
 Run the checkers game as follows:
 python gamePlay.py [-v -t timeout] P1 P2
