@@ -1,2 +1,2 @@
 # ArtificialIntelligence
-Artificial Intelligence Projects
+Couple of projects from my AI Course.
